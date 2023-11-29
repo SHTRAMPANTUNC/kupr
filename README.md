@@ -19,7 +19,7 @@
 <!-- ![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,neovim) -->
 ![Cpp](https://img.shields.io/badge/CPP-5277C3.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=purple)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Cmake](https://img.shields.io/badge/CMAKE-5277C3.svg?style=for-the-badge&logo=cmake&logoColor=red&color=grey)
+![Cmake](https://img.shields.io/badge/CMAKE-5277C3.svg?style=for-the-badge&logo=cmake&logoColor=white&color=red)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Arch](https://img.shields.io/badge/ARCH-5277C3.svg?style=for-the-badge&logo=ArchLinux&logoColor=white)
 
