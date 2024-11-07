@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Timur
 - 👀 C++
 - 🌱 Software Engineer
-- 📫 kupravagoodman@tutamail.com
+- 📫 kupravagoodman@proton.me
