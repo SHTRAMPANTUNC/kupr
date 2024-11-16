@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Timur
-- 👀 C++
+- 👀 C++, Golang
 - 🌱 Software Engineer
 - 📫 kupravagoodman@proton.me
